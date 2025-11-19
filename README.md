@@ -1,0 +1,18 @@
+This repository contains all the LeetCode problems I solve — automatically synced from LeetCode to GitHub.
+
+Every time I submit a solution on LeetCode, it gets pushed here, keeping my progress organized, backed up, and easy to track.
+
+🔥 Features
+
+📌 Automatic syncing of LeetCode submissions
+
+💻 Clean, structured folder-wise solutions
+
+📈 Tracks my coding journey and improvement over time
+
+🧠 Great for interview prep & revision
+
+🛠️ How it works
+
+This repo uses LeetCode’s GitHub integration to automatically upload all accepted solutions.
+No manual uploads needed — everything updates on its own.
