@@ -16,3 +16,19 @@ Every time I submit a solution on LeetCode, it gets pushed here, keeping my prog
 
 This repo uses LeetCode’s GitHub integration to automatically upload all accepted solutions.
 No manual uploads needed — everything updates on its own.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
