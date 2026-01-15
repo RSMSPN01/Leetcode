@@ -31,4 +31,12 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
