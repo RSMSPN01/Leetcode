@@ -38,6 +38,7 @@ No manual uploads needed — everything updates on its own.
 | [0118-pascals-triangle](https://github.com/RSMSPN01/Leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RSMSPN01/Leetcode/tree/master/0162-find-peak-element) |
+| [0229-majority-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/RSMSPN01/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/RSMSPN01/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -71,4 +72,16 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RSMSPN01/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
