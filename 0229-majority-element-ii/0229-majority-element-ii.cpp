@@ -10,61 +10,79 @@
 // we can push each value in hash and count there occurence together in the same
 // loop
 
-// we know that for sure the majority element could not be more then 2 elements bcs
-// lets say n = 8 so n/3 = 8/3 = 2, it means to be majority and element must be greater
-// then 2 times so it means 3 times and 3 * 3 = 9 > n so there is only 2 elements
-// TC-O(n) and SC O(n)
+// we know that for sure the majority element could not be more then 2 elements
+// bcs lets say n = 8 so n/3 = 8/3 = 2, it means to be majority and element must
+// be greater then 2 times so it means 3 times and 3 * 3 = 9 > n so there is
+// only 2 elements TC-O(n) and SC O(n)
 
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-         /* // first trying kadane algo here
-         int count= 0, majorityEle = 0;
-         for (int i =0;i<nums.size();i++){
-             if(count == 0){
-                 // then update the current value
-                 majorityEle = nums[i];
-             }
-             if(nums[i] == majorityEle){
-                 count++;
-             }else{
-                 count--;
-             }
-         }
-         // return {majorityEle};
-         // we also need to maintain a second check here to see it actually follows the
-         //condition or not
-         int tempCount;
-    for (int i =0;i<nums.size();i++) {
-         if(nums[i] == majorityEle){
-                 tempCount++;
-         }
-     }
-         if(tempCount> nums.size()/2){
-             return {majorityEle};
+        // So it is a slight modified version of moore's algo
+        // we just need to maintain one more varaible for the second
+        // just one more condition is needed new here else same as moore
+        int n = nums.size();
+        int count1 = 0, count2 = 0, element1 = 0, element2 = 0;
+        for (int i = 0; i < n; i++) {
+            if (count1 == 0 && element2 != nums[i]) {
+                // then update the current value
+                element1 = nums[i];
+                count1 = 1; // in this algo we also do this too
+            } else if (count2 == 0 && element1 != nums[i]) {
+                element2 = nums[i];
+                count2 = 1;
+            } else if (nums[i] == element1) {
+                count1++;
+            } else if (nums[i] == element2) {
+                count2++;
+            } else {
+                count1--;
+                count2--;
+            }
         }
-         return {-1}; */
-
-        // using extra space to sort the things 
-        // just an extra check is needed to check that the last element should not be same.
-
-        unordered_map<int, int> freq;
+        // verify it one more time 
+        int occr1 = 0,occr2 = 0;
+        // if (element2<element1) {
+        //     swap(element1,element2);
+        // }
+        for (int i = 0; i < n; i++) {
+            if(nums[i] == element1) {
+                occr1++;
+            }else if(nums[i] == element2) {
+                occr2++;
+            }
+        }
         vector<int> result;
-        for (int i = 0; i < nums.size(); i++) {
-            freq[nums[i]]++;
-            if ((freq[nums[i]] > nums.size() / 3)) {
-                if(result.empty()){
-                    // if empty push directly into it
-                result.push_back(nums[i]);
-                }else if(result.back() != nums[i]){
-                    // if not empty then further check that it should not be the duplicate
-                   result.push_back(nums[i]); 
-                }
-            }
-            if(result.size() == 2) {
-                break;
-            }
+        if(occr1 > n/3 ) {
+            result.push_back(element1);
+        }
+        if(occr2 > n/3) {
+            result.push_back(element2);
         }
         return result;
+        
+        // using extra space to sort the things
+        // just an extra check is needed to check that the last element should
+        // not be same.
+
+        // unordered_map<int, int> freq;
+        // vector<int> result;
+        // for (int i = 0; i < nums.size(); i++) {
+        //     freq[nums[i]]++;
+        //     if ((freq[nums[i]] > nums.size() / 3)) {
+        //         if(result.empty()){
+        //             // if empty push directly into it
+        //         result.push_back(nums[i]);
+        //         }else if(result.back() != nums[i]){
+        //             // if not empty then further check that it should not be
+        //             the duplicate
+        //            result.push_back(nums[i]);
+        //         }
+        //     }
+        //     if(result.size() == 2) {
+        //         break;
+        //     }
+        // }
+        // return result;
     }
 };
