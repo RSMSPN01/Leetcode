@@ -34,6 +34,7 @@ No manual uploads needed — everything updates on its own.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RSMSPN01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/RSMSPN01/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RSMSPN01/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/RSMSPN01/Leetcode/tree/master/0056-merge-intervals) |
@@ -57,6 +58,7 @@ No manual uploads needed — everything updates on its own.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RSMSPN01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/RSMSPN01/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -114,6 +116,7 @@ No manual uploads needed — everything updates on its own.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RSMSPN01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/RSMSPN01/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
