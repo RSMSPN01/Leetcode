@@ -34,7 +34,8 @@ public:
         int l1 = 0, l2 = 0, r1 = 0, r2 = 0;
         // now these variables keep the track so that we get
         // rough idea about the division of arrays
-        double low = 0, high = n1, mid1 = 0, mid2 = 0;
+        // use int for indexes value else give error here 
+        int low = 0, high = n1, mid1 = 0, mid2 = 0;
         while (low <= high) {
             // so this is the mid of the first array
             mid1 = low + (high - low) / 2;
@@ -57,7 +58,7 @@ public:
                 if (isEven) {
                     return (double)(max(l1, l2) + min(r1, r2)) / 2;
                 }
-                return max(l1, l2);
+                return (double)max(l1, l2);
             } else if (l1 > r2) {
                 high = mid1 - 1;
             } else {
