@@ -27,6 +27,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/0002-add-two-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +85,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RSMSPN01/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,4 +140,8 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RSMSPN01/Leetcode/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
