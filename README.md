@@ -95,6 +95,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RSMSPN01/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +104,7 @@ No manual uploads needed — everything updates on its own.
 | [0056-merge-intervals](https://github.com/RSMSPN01/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RSMSPN01/Leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RSMSPN01/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/RSMSPN01/Leetcode/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
