@@ -148,9 +148,14 @@ No manual uploads needed — everything updates on its own.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RSMSPN01/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/RSMSPN01/Leetcode/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RSMSPN01/Leetcode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
