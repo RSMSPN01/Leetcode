@@ -28,11 +28,13 @@ No manual uploads needed — everything updates on its own.
 | ------- |
 | [0002-add-two-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/RSMSPN01/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/RSMSPN01/Leetcode/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/RSMSPN01/Leetcode/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
