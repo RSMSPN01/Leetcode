@@ -1,68 +1,43 @@
-// Naive Approach : Traverse the string from the front and keep doing the
-// following checks while traversing if any of the if else condition fail
-// return the result. (This is what i am going to do)
-// I have directly applied if else in the this, what is asked in
-// the question i converted that into if/else code
-
+// Already solved the question using iterative method in strings module but now
+// using different way (recursion) to solve it
+// Approach : just thinking to convert the loop into recursion
 class Solution {
 public:
-    int myAtoi(string s) {
-
+    int normalizedValue(string& s, int i, long long result, int sign) {
         int n = s.length();
-        long long result = 0;
-        bool isNegative = false;
-        bool isSpace = false;
-        bool sign = false;
-        bool isZero = false;
-        for (int i = 0; i < n; i++) {
-            if (s[i] == ' ') {
-                // we have space check even we have encountered any
-                // sign or zero till now
-                if (sign || isZero || result>0) {
-                    break;
-                }
-                isSpace = true;
-            } else if (s[i] == '+' || s[i] == '-') {
-                // sign is occured check have there any zeros before
-                if (isZero || sign || result>0) {
-                    // also check isn't there are multiple signs together
-                    break;
-                }
-                if (s[i] == '-') {
-                    isNegative = true;
-                }
-                sign = true;
-                if (result != 0 && sign) {
-                    // it means sign is again appeared in between somewhere
-                    return result;
-                }
-            } else if (s[i] == 48) {
-                // check it is leading zero or a zero b/w numbers
-                if (result == 0) {
-                    isZero = true;
-                } else {
-                    // it is b/w no.s zero so attach it to the resutl
-                    if (result >= INT_MAX / 10) {
-                        return (isNegative)?INT_MIN:INT_MAX;
-                    }
-                    result = result * 10 + 0;
-                }
-            } else if (s[i] >= 49 && s[i] <= 57) {
-                // you got a valid digit store it now
-                result = result * 10 + s[i] - '0';
-            } else {
-                // any word encountered stop imediately there
-                break;
-            }
+        int digit = s[i] - '0';
+        if (i >= n || !isdigit(s[i])) {
+            return sign * result;
         }
-        // round it off to a valid value before returning it
-        if (result > INT_MAX) {
-            if (isNegative) {
-                result = INT_MIN;
-            } else {
-                result = INT_MAX;
+        if(result > (INT_MAX - digit) / 10) {
+            if(sign == -1) {
+                return INT_MIN;
             }
+            return INT_MAX;
         }
-        return (isNegative) ? -result : result;
+        result = result * 10 + digit;
+        return normalizedValue(s,i+1,result,sign);
+
+    }
+    int myAtoi(string s) {
+        // so defaul sign is sent as positive
+        // so what was i doing earlier was i was trying to traverse the whole
+        // string in the function above which makes the whole code very complex
+        // instead we will do some precomputation work here and then call the
+        // function which just reduced the work done.
+        int n = s.length();
+        int i = 0;
+        // skip spaces
+        while (i < n && s[i] == ' ') {
+            i++;
+        }
+        int sign = 1; // 1 means +ve
+        if (i < n && (s[i] == '+' || s[i] == '-')) {
+            if (s[i] == '-') {
+                sign = -1;
+            }
+            i++;
+        }
+        return normalizedValue(s, i, 0, sign);
     }
 };
