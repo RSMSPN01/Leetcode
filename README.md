@@ -130,6 +130,7 @@ No manual uploads needed — everything updates on its own.
 | [0005-longest-palindromic-substring](https://github.com/RSMSPN01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/RSMSPN01/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RSMSPN01/Leetcode/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Matrix
@@ -168,6 +169,7 @@ No manual uploads needed — everything updates on its own.
 | [0013-roman-to-integer](https://github.com/RSMSPN01/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RSMSPN01/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RSMSPN01/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RSMSPN01/Leetcode/tree/master/0242-valid-anagram) |
@@ -189,6 +191,7 @@ No manual uploads needed — everything updates on its own.
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/RSMSPN01/Leetcode/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
