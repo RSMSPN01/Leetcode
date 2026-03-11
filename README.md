@@ -219,4 +219,5 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0090-subsets-ii) |
+| [1009-complement-of-base-10-integer](https://github.com/RSMSPN01/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
