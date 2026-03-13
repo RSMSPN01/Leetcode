@@ -47,6 +47,7 @@ No manual uploads needed — everything updates on its own.
 | [0039-combination-sum](https://github.com/RSMSPN01/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RSMSPN01/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RSMSPN01/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/RSMSPN01/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -118,6 +119,7 @@ No manual uploads needed — everything updates on its own.
 | ------- |
 | [0015-3sum](https://github.com/RSMSPN01/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RSMSPN01/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RSMSPN01/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0229-majority-element-ii) |
@@ -215,6 +217,7 @@ No manual uploads needed — everything updates on its own.
 | [0039-combination-sum](https://github.com/RSMSPN01/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RSMSPN01/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
