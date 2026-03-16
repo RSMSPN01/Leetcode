@@ -93,6 +93,7 @@ No manual uploads needed — everything updates on its own.
 | [0005-longest-palindromic-substring](https://github.com/RSMSPN01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/RSMSPN01/Leetcode/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/RSMSPN01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/RSMSPN01/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/RSMSPN01/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -178,6 +179,7 @@ No manual uploads needed — everything updates on its own.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RSMSPN01/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0131-palindrome-partitioning](https://github.com/RSMSPN01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RSMSPN01/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RSMSPN01/Leetcode/tree/master/0242-valid-anagram) |
@@ -219,6 +221,7 @@ No manual uploads needed — everything updates on its own.
 | [0046-permutations](https://github.com/RSMSPN01/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/RSMSPN01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
