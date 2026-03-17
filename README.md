@@ -50,6 +50,7 @@ No manual uploads needed — everything updates on its own.
 | [0047-permutations-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RSMSPN01/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/RSMSPN01/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/RSMSPN01/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0090-subsets-ii) |
@@ -145,6 +146,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RSMSPN01/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/RSMSPN01/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
@@ -179,6 +181,7 @@ No manual uploads needed — everything updates on its own.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RSMSPN01/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/RSMSPN01/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/RSMSPN01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RSMSPN01/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -220,6 +223,7 @@ No manual uploads needed — everything updates on its own.
 | [0040-combination-sum-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RSMSPN01/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/RSMSPN01/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RSMSPN01/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -228,4 +232,8 @@ No manual uploads needed — everything updates on its own.
 | ------- |
 | [0090-subsets-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0090-subsets-ii) |
 | [1009-complement-of-base-10-integer](https://github.com/RSMSPN01/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/RSMSPN01/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
