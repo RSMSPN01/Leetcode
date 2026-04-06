@@ -204,6 +204,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RSMSPN01/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RSMSPN01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -247,8 +248,10 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RSMSPN01/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RSMSPN01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RSMSPN01/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RSMSPN01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
