@@ -203,6 +203,7 @@ No manual uploads needed — everything updates on its own.
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RSMSPN01/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -242,4 +243,12 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RSMSPN01/Leetcode/tree/master/0079-word-search) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RSMSPN01/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RSMSPN01/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
