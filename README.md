@@ -72,6 +72,7 @@ No manual uploads needed — everything updates on its own.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RSMSPN01/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RSMSPN01/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RSMSPN01/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ No manual uploads needed — everything updates on its own.
 | [0242-valid-anagram](https://github.com/RSMSPN01/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RSMSPN01/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RSMSPN01/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RSMSPN01/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +132,7 @@ No manual uploads needed — everything updates on its own.
 | [0229-majority-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RSMSPN01/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RSMSPN01/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RSMSPN01/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
