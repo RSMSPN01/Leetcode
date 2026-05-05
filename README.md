@@ -32,6 +32,7 @@ No manual uploads needed — everything updates on its own.
 | [1903-largest-odd-number-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/1922-count-good-numbers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RSMSPN01/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/RSMSPN01/Leetcode/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
