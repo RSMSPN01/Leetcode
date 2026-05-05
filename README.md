@@ -124,6 +124,7 @@ No manual uploads needed — everything updates on its own.
 | [0205-isomorphic-strings](https://github.com/RSMSPN01/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RSMSPN01/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RSMSPN01/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RSMSPN01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RSMSPN01/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -144,6 +145,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RSMSPN01/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RSMSPN01/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
@@ -202,6 +204,7 @@ No manual uploads needed — everything updates on its own.
 | [0151-reverse-words-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RSMSPN01/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RSMSPN01/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RSMSPN01/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/RSMSPN01/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -275,6 +278,7 @@ No manual uploads needed — everything updates on its own.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RSMSPN01/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RSMSPN01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
