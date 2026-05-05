@@ -31,6 +31,7 @@ No manual uploads needed — everything updates on its own.
 | [0050-powx-n](https://github.com/RSMSPN01/Leetcode/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/1922-count-good-numbers) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RSMSPN01/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@ No manual uploads needed — everything updates on its own.
 | [2104-sum-of-subarray-ranges](https://github.com/RSMSPN01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RSMSPN01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RSMSPN01/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RSMSPN01/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/RSMSPN01/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RSMSPN01/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
