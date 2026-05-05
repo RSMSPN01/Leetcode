@@ -76,6 +76,7 @@ No manual uploads needed — everything updates on its own.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RSMSPN01/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RSMSPN01/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/RSMSPN01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RSMSPN01/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
@@ -225,6 +226,7 @@ No manual uploads needed — everything updates on its own.
 | [0907-sum-of-subarray-minimums](https://github.com/RSMSPN01/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/RSMSPN01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## String Matching
 |  |
 | ------- |
@@ -279,6 +281,7 @@ No manual uploads needed — everything updates on its own.
 | [0496-next-greater-element-i](https://github.com/RSMSPN01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/RSMSPN01/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/RSMSPN01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
