@@ -116,6 +116,7 @@ No manual uploads needed — everything updates on its own.
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/RSMSPN01/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RSMSPN01/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -214,6 +215,7 @@ No manual uploads needed — everything updates on its own.
 | [0205-isomorphic-strings](https://github.com/RSMSPN01/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RSMSPN01/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/RSMSPN01/Leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/RSMSPN01/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/RSMSPN01/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/RSMSPN01/Leetcode/tree/master/0796-rotate-string) |
@@ -236,6 +238,7 @@ No manual uploads needed — everything updates on its own.
 | [0155-min-stack](https://github.com/RSMSPN01/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RSMSPN01/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RSMSPN01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/RSMSPN01/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RSMSPN01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/RSMSPN01/Leetcode/tree/master/0735-asteroid-collision) |
@@ -295,6 +298,7 @@ No manual uploads needed — everything updates on its own.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/RSMSPN01/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RSMSPN01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/RSMSPN01/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
