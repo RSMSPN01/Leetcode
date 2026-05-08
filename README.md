@@ -82,6 +82,7 @@ No manual uploads needed — everything updates on its own.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RSMSPN01/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RSMSPN01/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RSMSPN01/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/RSMSPN01/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/RSMSPN01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RSMSPN01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -184,6 +185,7 @@ No manual uploads needed — everything updates on its own.
 | [0079-word-search](https://github.com/RSMSPN01/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/RSMSPN01/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/RSMSPN01/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
