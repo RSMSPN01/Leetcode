@@ -230,6 +230,7 @@ No manual uploads needed — everything updates on its own.
 | [1903-largest-odd-number-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RSMSPN01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RSMSPN01/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3019-number-of-changing-keys](https://github.com/RSMSPN01/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3794-reverse-string-prefix](https://github.com/RSMSPN01/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
