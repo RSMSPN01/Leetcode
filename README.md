@@ -231,6 +231,7 @@ No manual uploads needed — everything updates on its own.
 | [0387-first-unique-character-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/RSMSPN01/Leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/RSMSPN01/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0657-robot-return-to-origin](https://github.com/RSMSPN01/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/RSMSPN01/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/RSMSPN01/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -326,5 +327,6 @@ No manual uploads needed — everything updates on its own.
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/RSMSPN01/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/RSMSPN01/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
