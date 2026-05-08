@@ -30,6 +30,7 @@ No manual uploads needed — everything updates on its own.
 | [0013-roman-to-integer](https://github.com/RSMSPN01/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/RSMSPN01/Leetcode/tree/master/0050-powx-n) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RSMSPN01/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/RSMSPN01/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/1922-count-good-numbers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RSMSPN01/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -84,6 +85,7 @@ No manual uploads needed — everything updates on its own.
 | [1539-kth-missing-positive-number](https://github.com/RSMSPN01/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/RSMSPN01/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/RSMSPN01/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/RSMSPN01/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/RSMSPN01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RSMSPN01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
