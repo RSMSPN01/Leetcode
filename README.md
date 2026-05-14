@@ -23,6 +23,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/RSMSPN01/Leetcode/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +141,7 @@ No manual uploads needed — everything updates on its own.
 | [0013-roman-to-integer](https://github.com/RSMSPN01/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RSMSPN01/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/RSMSPN01/Leetcode/tree/master/0037-sudoku-solver) |
+| [0146-lru-cache](https://github.com/RSMSPN01/Leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/RSMSPN01/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RSMSPN01/Leetcode/tree/master/0242-valid-anagram) |
@@ -308,6 +310,7 @@ No manual uploads needed — everything updates on its own.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RSMSPN01/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/RSMSPN01/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RSMSPN01/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RSMSPN01/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -347,4 +350,8 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/RSMSPN01/Leetcode/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RSMSPN01/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
