@@ -12,33 +12,23 @@
 // not be able to understand that try next time
 class Solution {
 public:
-    vector<int> prevSmaller(vector<int>& nums) {
-        vector<int> pse(nums.size());
-        stack<int> s;
-        for (int i = 0; i < nums.size(); i++) {
-            while (!s.empty() && nums[i] <= nums[s.top()]) {
-                s.pop();
-            }
-            pse[i] = (s.empty()) ? -1 : s.top();
-            s.push(i);
-        }
-        return pse;
-    }
-    vector<int> nextSmaller(vector<int>& nums) {
-        vector<int> nse(nums.size());
-        stack<int> s;
-        for (int i = nums.size() - 1; i >= 0; i--) {
-            while (!s.empty() && nums[i] <= nums[s.top()]) {
-                s.pop();
-            }
-            nse[i] = (s.empty()) ? nums.size() : s.top();
-            s.push(i);
-        }
-        return nse;
-    }
     int largestRectangleArea(vector<int>& heights) {
-        vector<int> pse = prevSmaller(heights);
-        vector<int> nse = nextSmaller(heights);
+        int n = heights.size();
+        // pre store the values so that we don't have to traverse them back to
+        // make changes in the values which are not computed
+        vector<int> pse(n, -1); // store all values as -1
+        vector<int> nse(n, n);  // store all values as n
+        stack<int> mono;
+        for (int i = 0; i < n; i++) {
+            while (!mono.empty() && heights[i] <= heights[mono.top()]) {
+                int index = mono.top();
+                mono.pop();
+                nse[index] = i; // current value is the nse for the top element
+            }
+            pse[i] = (mono.empty()) ? -1 : mono.top();
+            mono.push(i);
+        }
+       
         int maxArea = 0;
         for (int i = 0; i < heights.size(); i++) {
             maxArea = max(maxArea, heights[i] * (nse[i] - pse[i] - 1));
