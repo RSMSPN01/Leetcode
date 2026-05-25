@@ -82,6 +82,7 @@ No manual uploads needed — everything updates on its own.
 | [0875-koko-eating-bananas](https://github.com/RSMSPN01/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/RSMSPN01/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/RSMSPN01/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RSMSPN01/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RSMSPN01/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RSMSPN01/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -110,6 +111,7 @@ No manual uploads needed — everything updates on its own.
 | [0493-reverse-pairs](https://github.com/RSMSPN01/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/RSMSPN01/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/RSMSPN01/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RSMSPN01/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RSMSPN01/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RSMSPN01/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -136,6 +138,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RSMSPN01/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/RSMSPN01/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -348,6 +351,7 @@ No manual uploads needed — everything updates on its own.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RSMSPN01/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/RSMSPN01/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/RSMSPN01/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
 | ------- |
