@@ -1,0 +1,60 @@
+1/**
+2 * Definition for singly-linked list.
+3 * struct ListNode {
+4 *     int val;
+5 *     ListNode *next;
+6 *     ListNode() : val(0), next(nullptr) {}
+7 *     ListNode(int x) : val(x), next(nullptr) {}
+8 *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+9 * };
+10 */
+11// Logic is same as the array one reverse the list from last k nodes and then
+12// fully reverse it that is it, just need extra revers function for help and its
+13// done
+14
+15// Step 1 : Finds its length first to round of the k rotations
+16// Step 2 : Rotate the LL from the K nodes and then full reverse
+17class Solution {
+18public:
+19    ListNode* reverseList(ListNode* head) {
+20        ListNode* prev = nullptr;
+21        ListNode* temp = head;
+22        while (temp != nullptr) {
+23            ListNode* nextAddress = temp->next;
+24            temp->next = prev;
+25            prev = temp;
+26            temp = nextAddress;
+27        }
+28        return prev;
+29    }
+30    ListNode* rotateRight(ListNode* head, int k) {
+31        if (head == nullptr || head->next == nullptr) {
+32            return head;
+33        }
+34        int length = 0;
+35        ListNode* temp = head;
+36        while (temp != nullptr) {
+37            length++;
+38            temp = temp->next;
+39        }
+40        k = k % length;
+41        if(k == 0){
+42            return head; // if it is same as length or zero 
+43        }
+44        ListNode* temp2 = head;
+45        while (k > 0) {
+46            temp2 = temp2->next;
+47            k--;
+48        }
+49        ListNode* currntNode = head;
+50        while (temp2->next != nullptr) {
+51            temp2 = temp2->next;
+52            currntNode = currntNode->next;
+53        }
+54        ListNode* nextNode = currntNode->next;
+55        currntNode->next = nullptr;
+56        ListNode* newHead = reverseList(head); // reverse till k nodes from head
+57        head->next = reverseList(nextNode);    // reverse after the k node and attach to head not new head
+58        return reverseList(newHead); // fully reverse it and return the head
+59    }
+60};
