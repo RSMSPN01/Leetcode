@@ -1,0 +1,83 @@
+1/**
+2 * Definition for singly-linked list.
+3 * struct ListNode {
+4 *     int val;
+5 *     ListNode *next;
+6 *     ListNode() : val(0), next(nullptr) {}
+7 *     ListNode(int x) : val(x), next(nullptr) {}
+8 *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+9 * };
+10 */
+11
+12// Four Steps need to follow for this question
+13// Step 1 : Find mid of the LL -> slow and fast;
+14// Step 2 : Divide the LL in two parts now from mid
+15// Step 3 : Call the function again on two LL now
+16// Step 4 : merge both the LL and return the head
+17class Solution {
+18public:
+19    ListNode* middleNode(ListNode* head) {
+20        if (head == nullptr) {
+21            return head;
+22        }
+23        ListNode* slow = head;
+24        ListNode* fast = head->next;
+25        // we started the fast from one place further so that it stop
+26        // one place early to get the first mid node in even length LL
+27        while (fast != nullptr && fast->next != nullptr) {
+28            slow = slow->next;
+29            fast = fast->next->next;
+30        }
+31        return slow;
+32    }
+33    ListNode* merge(ListNode* head1, ListNode* head2) {
+34        ListNode* temp1 = head1;
+35        ListNode* temp2 = head2;
+36        ListNode* tempList = new ListNode(); // empty node created
+37        ListNode* currentNode = tempList;
+38        while (temp1 != nullptr && temp2 != nullptr) {
+39            int tempData = 0;
+40            if (temp1->val <= temp2->val) {
+41                tempData = temp1->val;
+42                temp1 = temp1->next;
+43            } else {
+44                tempData = temp2->val;
+45                temp2 = temp2->next;
+46            }
+47            ListNode* tempNode = new ListNode(tempData);
+48            currentNode->next = tempNode;
+49            currentNode = currentNode->next;
+50        }
+51        while (temp1 != nullptr) {
+52            ListNode* tempNode = new ListNode(temp1->val);
+53            currentNode->next = tempNode;
+54            currentNode = currentNode->next;
+55            temp1 = temp1->next;
+56        }
+57        while (temp2 != nullptr) {
+58            ListNode* tempNode = new ListNode(temp2->val);
+59            currentNode->next = tempNode;
+60            currentNode = currentNode->next;
+61            temp2 = temp2->next;
+62        }
+63        return tempList->next;
+64    }
+65    ListNode* mergeSort(ListNode* head) {
+66        // A list containing zero or one node is already sorted.
+67        if (head == nullptr || head->next == nullptr) {
+68            return head;
+69        }
+70        ListNode* middle = middleNode(head);
+71        ListNode* firstList = head;
+72        ListNode* secondList = middle->next;
+73        middle->next = nullptr;
+74        firstList = mergeSort(firstList);
+75        secondList = mergeSort(secondList);
+76        return merge(firstList, secondList);
+77    }
+78    ListNode* sortList(ListNode* head) {
+79        head = mergeSort(head);
+80        return head;
+81    }
+82};
+83
