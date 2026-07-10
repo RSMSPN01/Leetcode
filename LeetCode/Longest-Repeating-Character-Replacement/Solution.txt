@@ -1,0 +1,38 @@
+1// I know this is a sliding problem, i also know we have to choose a substring,
+2// but the real problem which i am not able to solve is how do we choose to
+3// which character to be changed or replace
+4
+5// So i found that at most we can pick only 2 letters at a time and keep
+6// checking if the frequency of both the characters exceeds the limit then k
+7// times.
+8
+9// so my thinking is right but every time checking the frequency is a costly
+10// operation and we can do that faster usign direct formula maxLength -
+11// maxFrequency
+12
+13// The question is kind of same to the previous one but still needs more
+14// practice to get better at these kinds of pattern
+15class Solution {
+16public:
+17    int characterReplacement(string s, int k) {
+18        int n = s.length(), maxFreq = 0, left = 0, right = 0;
+19        int maxLength = 0;
+20        vector<int> hash(26, 0);
+21        while (right < n) {
+22            hash[s[right] - 'A']++; // update the freq
+23            maxFreq = max(maxFreq, hash[s[right] - 'A']);
+24            // check if current window is even valid or not
+25            if ((right - left + 1) - maxFreq > k) {
+26                hash[s[left] - 'A']--;
+27                left++;
+28            }
+29            // keep in mind that we never update the freq back again
+30            // bcs changing the freq is not dependent on the answer
+31            if ((right - left + 1) - maxFreq <= k) {
+32                maxLength = max(maxLength, (right - left + 1));
+33            }
+34            right++;
+35        }
+36        return maxLength;
+37    }
+38};
