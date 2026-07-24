@@ -159,6 +159,7 @@ No manual uploads needed — everything updates on its own.
 | [0451-sort-characters-by-frequency](https://github.com/RSMSPN01/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/RSMSPN01/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/RSMSPN01/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/RSMSPN01/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RSMSPN01/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RSMSPN01/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -194,6 +195,7 @@ No manual uploads needed — everything updates on its own.
 | [0088-merge-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/RSMSPN01/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RSMSPN01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/RSMSPN01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3794-reverse-string-prefix](https://github.com/RSMSPN01/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -250,6 +252,7 @@ No manual uploads needed — everything updates on its own.
 | [0402-remove-k-digits](https://github.com/RSMSPN01/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RSMSPN01/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/RSMSPN01/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/RSMSPN01/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/RSMSPN01/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/RSMSPN01/Leetcode/tree/master/0796-rotate-string) |
@@ -361,6 +364,7 @@ No manual uploads needed — everything updates on its own.
 | [0003-longest-substring-without-repeating-characters](https://github.com/RSMSPN01/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/RSMSPN01/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RSMSPN01/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/RSMSPN01/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/RSMSPN01/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
