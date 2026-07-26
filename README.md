@@ -31,6 +31,7 @@ No manual uploads needed — everything updates on its own.
 | [0002-add-two-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/RSMSPN01/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/RSMSPN01/Leetcode/tree/master/0050-powx-n) |
+| [0973-k-closest-points-to-origin](https://github.com/RSMSPN01/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RSMSPN01/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RSMSPN01/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/RSMSPN01/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -84,6 +85,7 @@ No manual uploads needed — everything updates on its own.
 | [0875-koko-eating-bananas](https://github.com/RSMSPN01/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/RSMSPN01/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/RSMSPN01/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0973-k-closest-points-to-origin](https://github.com/RSMSPN01/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/RSMSPN01/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RSMSPN01/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -180,6 +182,7 @@ No manual uploads needed — everything updates on its own.
 | [0347-top-k-frequent-elements](https://github.com/RSMSPN01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/RSMSPN01/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/RSMSPN01/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/RSMSPN01/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RSMSPN01/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
@@ -221,6 +224,7 @@ No manual uploads needed — everything updates on its own.
 | [0240-search-a-2d-matrix-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RSMSPN01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/RSMSPN01/Leetcode/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/RSMSPN01/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -306,6 +310,7 @@ No manual uploads needed — everything updates on its own.
 | [0239-sliding-window-maximum](https://github.com/RSMSPN01/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/RSMSPN01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RSMSPN01/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/RSMSPN01/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -394,4 +399,9 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RSMSPN01/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/RSMSPN01/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/RSMSPN01/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
