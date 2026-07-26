@@ -23,6 +23,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RSMSPN01/Leetcode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/RSMSPN01/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/RSMSPN01/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/RSMSPN01/Leetcode/tree/master/0460-lfu-cache) |
 ## Math
@@ -221,6 +222,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RSMSPN01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/RSMSPN01/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RSMSPN01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/RSMSPN01/Leetcode/tree/master/0493-reverse-pairs) |
@@ -236,6 +238,7 @@ No manual uploads needed — everything updates on its own.
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RSMSPN01/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/RSMSPN01/Leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -307,6 +310,7 @@ No manual uploads needed — everything updates on its own.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RSMSPN01/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/RSMSPN01/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/RSMSPN01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RSMSPN01/Leetcode/tree/master/0451-sort-characters-by-frequency) |
