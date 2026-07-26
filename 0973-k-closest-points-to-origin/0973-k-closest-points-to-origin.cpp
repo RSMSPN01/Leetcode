@@ -12,23 +12,24 @@
 
 class Solution {
 public:
-    double Ed(int x, int y) { // constant time function
-        double result = sqrt((x * x) + (y * y));
-        return result;
-    }
+// don't need this function though even simple multiplication can be
+// done 
+    // double Ed(int x, int y) { // constant time function
+    //     double result = sqrt((x * x) + (y * y));
+    //     return result;
+    // }
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
         // for finding the smallest we need maxHeap
         // but we need to store the distance as well as point
-        priority_queue<pair<double, vector<int>>> maxHeap;
+        priority_queue<pair<int, vector<int>>> maxHeap;
+        // don't need double it will never overflow though
         for (int i = 0; i < points.size(); i++) {
             int xPoint = points[i][0];
             int yPoint = points[i][1];
-            double distance = Ed(xPoint, yPoint);
+            int distance = (xPoint*xPoint)+(yPoint*yPoint);
             maxHeap.push({distance, points[i]}); // store like {2.343,[1,-2]} //
-            cout<<"push"<<maxHeap.top().first<<endl;
             if (maxHeap.size() > k) {
                 maxHeap.pop();
-                cout<<"pop"<<maxHeap.top().first<<endl;
             }
         }
         vector<vector<int>> result;
