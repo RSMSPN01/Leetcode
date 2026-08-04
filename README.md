@@ -59,6 +59,7 @@ No manual uploads needed — everything updates on its own.
 | [0046-permutations](https://github.com/RSMSPN01/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/RSMSPN01/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/RSMSPN01/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RSMSPN01/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/RSMSPN01/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RSMSPN01/Leetcode/tree/master/0079-word-search) |
@@ -131,6 +132,7 @@ No manual uploads needed — everything updates on its own.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RSMSPN01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/RSMSPN01/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/RSMSPN01/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/RSMSPN01/Leetcode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/RSMSPN01/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -141,6 +143,7 @@ No manual uploads needed — everything updates on its own.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RSMSPN01/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/RSMSPN01/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RSMSPN01/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RSMSPN01/Leetcode/tree/master/0435-non-overlapping-intervals) |
