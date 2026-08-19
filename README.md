@@ -355,6 +355,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RSMSPN01/Leetcode/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -419,4 +420,16 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/RSMSPN01/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
