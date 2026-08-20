@@ -356,6 +356,7 @@ No manual uploads needed — everything updates on its own.
 | ------- |
 | [0079-word-search](https://github.com/RSMSPN01/Leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Design
 |  |
@@ -425,6 +426,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -434,6 +436,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
