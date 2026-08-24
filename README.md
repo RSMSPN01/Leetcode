@@ -365,6 +365,7 @@ No manual uploads needed — everything updates on its own.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RSMSPN01/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0437-path-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Design
 |  |
@@ -440,6 +441,7 @@ No manual uploads needed — everything updates on its own.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RSMSPN01/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0437-path-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -457,6 +459,7 @@ No manual uploads needed — everything updates on its own.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RSMSPN01/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0437-path-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
