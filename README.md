@@ -180,6 +180,7 @@ No manual uploads needed — everything updates on its own.
 | [0904-fruit-into-baskets](https://github.com/RSMSPN01/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RSMSPN01/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RSMSPN01/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RSMSPN01/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RSMSPN01/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -367,6 +368,7 @@ No manual uploads needed — everything updates on its own.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RSMSPN01/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
 |  |
 | ------- |
@@ -443,12 +445,14 @@ No manual uploads needed — everything updates on its own.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RSMSPN01/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0226-invert-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RSMSPN01/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -461,6 +465,7 @@ No manual uploads needed — everything updates on its own.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RSMSPN01/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
 | ------- |
