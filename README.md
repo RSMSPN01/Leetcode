@@ -96,6 +96,7 @@ No manual uploads needed — everything updates on its own.
 | [0977-squares-of-a-sorted-array](https://github.com/RSMSPN01/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/RSMSPN01/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RSMSPN01/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RSMSPN01/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RSMSPN01/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RSMSPN01/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -319,6 +320,7 @@ No manual uploads needed — everything updates on its own.
 | [0901-online-stock-span](https://github.com/RSMSPN01/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/RSMSPN01/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RSMSPN01/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/RSMSPN01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## String Matching
@@ -400,6 +402,7 @@ No manual uploads needed — everything updates on its own.
 | [0503-next-greater-element-ii](https://github.com/RSMSPN01/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/RSMSPN01/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/RSMSPN01/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/RSMSPN01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
@@ -454,6 +457,7 @@ No manual uploads needed — everything updates on its own.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RSMSPN01/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -478,6 +482,7 @@ No manual uploads needed — everything updates on its own.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RSMSPN01/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
@@ -500,4 +505,5 @@ No manual uploads needed — everything updates on its own.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RSMSPN01/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
