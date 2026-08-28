@@ -361,6 +361,7 @@ No manual uploads needed — everything updates on its own.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RSMSPN01/Leetcode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RSMSPN01/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -437,6 +438,7 @@ No manual uploads needed — everything updates on its own.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -458,6 +460,7 @@ No manual uploads needed — everything updates on its own.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -486,5 +489,6 @@ No manual uploads needed — everything updates on its own.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
