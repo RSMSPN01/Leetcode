@@ -374,6 +374,7 @@ No manual uploads needed — everything updates on its own.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RSMSPN01/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
@@ -456,6 +457,7 @@ No manual uploads needed — everything updates on its own.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RSMSPN01/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -481,6 +483,7 @@ No manual uploads needed — everything updates on its own.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/RSMSPN01/Leetcode/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/RSMSPN01/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -505,5 +508,6 @@ No manual uploads needed — everything updates on its own.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RSMSPN01/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/RSMSPN01/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RSMSPN01/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
